@@ -2,4 +2,4 @@
 if campus app works properly be happy
 else
 fix bugs and make it even better software
-UPDATE: IT WORKS NOW WOW :)
+UPDATE: IT WORKS NOW TIME TO DO MORE UPDATES IN FUTURE!
